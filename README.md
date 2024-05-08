@@ -1,0 +1,2 @@
+# TradingDashboard
+Forex Trading Dashboard
