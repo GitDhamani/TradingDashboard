@@ -77,7 +77,7 @@ NewTradeDialog::NewTradeDialog(QWidget *parent) :
         }
 
         int maxItems = ui->pairCombo->count();
-        if (ui->pairCombo->currentIndex() <= maxItems-1)
+        if (ui->pairCombo->currentIndex() < maxItems-1)
         placeTrade();
 
     });
