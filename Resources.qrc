@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>RC/LoginIMG.png</file>
+        <file>RC/PauseIcon.ico</file>
+        <file>RC/PlayIcon.ico</file>
+        <file>RC/AddFunds.ico</file>
+        <file>RC/GBPUSD.csv</file>
+        <file>RC/EURUSD.csv</file>
+        <file>RC/EURGBP.csv</file>
+        <file>RC/USDJPY.csv</file>
+        <file>RC/AUDUSD.csv</file>
+        <file>RC/USDCAD.csv</file>
+        <file>RC/USDCHF.csv</file>
+        <file>RC/NZDUSD.csv</file>
+        <file>RC/StepOff.ico</file>
+        <file>RC/StepOn.ico</file>
+        <file>RC/GBPAUD.csv</file>
+        <file>RC/GBPCAD.csv</file>
+        <file>RC/GBPCHF.csv</file>
+        <file>RC/EURAUD.csv</file>
+        <file>RC/GBPJPY.csv</file>
+        <file>RC/EURCAD.csv</file>
+        <file>RC/EURNZD.csv</file>
+        <file>RC/NZDCAD.csv</file>
+        <file>RC/AUDCAD.csv</file>
+        <file>RC/AUDNZD.csv</file>
+        <file>RC/EURCHF.csv</file>
+        <file>RC/EURJPY.csv</file>
+        <file>RC/AUDJPY.csv</file>
+        <file>RC/CADCHF.csv</file>
+        <file>RC/CADJPY.csv</file>
+        <file>RC/NZDJPY.csv</file>
+        <file>RC/IMGFooter.png</file>
+    </qresource>
+</RCC>
